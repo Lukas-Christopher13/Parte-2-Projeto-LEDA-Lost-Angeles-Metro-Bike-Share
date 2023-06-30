@@ -1,0 +1,1 @@
+#Caso esteja com problemas na hora de gerar os arquivos no medio caso coloque uma copida do arquivo nessa pasta "LAMetroTrips.csv" 

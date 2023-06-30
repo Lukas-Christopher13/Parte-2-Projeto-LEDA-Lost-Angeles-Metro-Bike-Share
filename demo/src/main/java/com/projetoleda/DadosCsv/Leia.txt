@@ -1,0 +1,1 @@
+#Coloque os arquivos "stations.csv" e "LA_Metro_BikeSharing_CLEANED_2016quater3-2021q3.csv" nesta pasta

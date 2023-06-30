@@ -1,0 +1,10 @@
+#Ao rodar o arquivo Mian.java o programa se inicializa
+
+#Antes de mais nada Selecione a optção "Tratar os arquivos" para que os demais
+passos possam ser realizados!
+
+#Caso demore muito pra gerar todos os casos para a Data, va até a o arquivo "Interface.java"
+na linha 120 e comente o alguns dos metodos!
+
+#Os arquivos que são gerados se encontram na pasta Dados tratados!
+
